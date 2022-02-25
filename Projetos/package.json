@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "projetos",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
